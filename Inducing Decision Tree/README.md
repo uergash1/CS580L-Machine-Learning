@@ -8,5 +8,4 @@ Pruning part: Bottom up approach is used. Program randomly chooses a node from t
 Usage
 -----
 
-.\program <training-set> <validation-set> <test-set> <to-print>
-to-print:{yes,no} <prune> prune:{yes, no}
+    .\program <training-set> <validation-set> <test-set> <to-print> to-print:{yes,no} <prune> prune:{yes, no}
